@@ -1,4 +1,4 @@
-**JSON To Model converts Hypar JSON Walls and Floors into Hypar elements.**
+**JSON To Model converts Hypar JSON Walls and Floors into Hypar Elements.**
 
 To use the sample JSON files in this folder:
 
