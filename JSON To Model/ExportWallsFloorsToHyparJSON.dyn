@@ -2,7 +2,7 @@
   "Uuid": "3c9a5bd3-0e97-40cb-aa3a-3c253e1a7d6b",
   "IsCustomNode": false,
   "Description": null,
-  "Name": "ExportWallsAndFloorsToHyparJSON",
+  "Name": "ExportWallsFloorsToHyparJSON",
   "ElementResolver": {
     "ResolutionMap": {}
   },
@@ -169,8 +169,8 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\Anthony\\Hypar Dropbox\\Anthony Hauck\\Hypar\\Sample Data\\DemoExportFromRevitWithDynamo\\all_model.json",
-      "InputValue": ".\\all_model.json",
+      "HintPath": "C:\\Users\\Anthony\\Dropbox (Personal)\\Business\\GitHub\\HyparFunctionData\\JSON To Model\\ExportedWallsFloors.json",
+      "InputValue": ".\\ExportedWallsFloors.json",
       "NodeType": "ExtensionNode",
       "Id": "f73f15b237a74f01b3df349058c3ed4b",
       "Inputs": [],
@@ -608,7 +608,7 @@
     {
       "Start": "5a54cdcaa59f4fc2b5255625ad2e7f6b",
       "End": "cc683d59d87846e1a25b2a3947b47f07",
-      "Id": "8308323d32e449ffa41622664d474de0"
+      "Id": "d59b0c3ebd184c3aacc7174803e111f3"
     },
     {
       "Start": "5fdcde35a2554162b2fa7af521a755cf",
@@ -820,8 +820,8 @@
       }
     ],
     "Annotations": [],
-    "X": -776.55065849633706,
-    "Y": -87.861789433101364,
-    "Zoom": 0.61673155970280091
+    "X": -403.38175061702225,
+    "Y": -59.199881952502892,
+    "Zoom": 0.54227297319695122
   }
 }
