@@ -15,6 +15,7 @@ To create your own Hypar JSON files from Revit 2020:
 1) Clone this repository or download ExportWallsFloorsToHyparJSON.dyn
 2) Use the sample RVT files in this folder or another Revit 2020 RVT containing Revit Walls, Floors, or both.
 3) Open ExportWallsFloorsToHyparJSON.dyn in Dynamo.
-4) Run the Dynamo script.
-5) In the same folder as the RVT, find the exported file called ExportedWallsFloors.json.
-6) Follow steps 2 - 7 above.
+4) Install the Hypar Dynamo package.
+5) Run the Dynamo script.
+6) In the same folder as the RVT, find the exported file called ExportedWallsFloors.json.
+7) Follow steps 2 - 7 above.
