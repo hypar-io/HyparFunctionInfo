@@ -1,0 +1,104 @@
+{
+  "Transform": {
+    "Matrix": {
+      "Components": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    }
+  },
+  "Elements": {
+    "8a196c03-88d0-4f73-b2d9-1414004b74fa": {
+      "discriminator": "Elements.Material",
+      "Color": {
+        "Red": 0.20000000298023224,
+        "Green": 0.699999988079071,
+        "Blue": 0.30000001192092896,
+        "Alpha": 0.60000002384185791
+      },
+      "SpecularFactor": 0.0,
+      "GlossinessFactor": 0.0,
+      "Unlit": false,
+      "DoubleSided": false,
+      "Id": "8a196c03-88d0-4f73-b2d9-1414004b74fa",
+      "Name": "site"
+    },
+    "ec9cd64c-3957-400d-bf29-6bb52b1588c2": {
+      "discriminator": "Elements.Site",
+      "Perimeter": {
+        "discriminator": "Elements.Geometry.Polygon",
+        "Vertices": [
+          {
+            "X": -55.876136797466515,
+            "Y": 45.950801924854424,
+            "Z": 0.0
+          },
+          {
+            "X": 44.1562672441119,
+            "Y": 45.803907643774892,
+            "Z": 0.0
+          },
+          {
+            "X": 43.9668351872987,
+            "Y": -83.195968364371907,
+            "Z": 0.0
+          },
+          {
+            "X": -56.065568854279718,
+            "Y": -83.049074083292439,
+            "Z": 0.0
+          }
+        ]
+      },
+      "Area": 12904.19554464626,
+      "Transform": null,
+      "Material": "8a196c03-88d0-4f73-b2d9-1414004b74fa",
+      "Representation": {
+        "SolidOperations": [
+          {
+            "discriminator": "Elements.Geometry.Solids.Lamina",
+            "Perimeter": {
+              "discriminator": "Elements.Geometry.Polygon",
+              "Vertices": [
+                {
+                  "X": -55.876136797466515,
+                  "Y": 45.950801924854424,
+                  "Z": 0.0
+                },
+                {
+                  "X": 44.1562672441119,
+                  "Y": 45.803907643774892,
+                  "Z": 0.0
+                },
+                {
+                  "X": 43.9668351872987,
+                  "Y": -83.195968364371907,
+                  "Z": 0.0
+                },
+                {
+                  "X": -56.065568854279718,
+                  "Y": -83.049074083292439,
+                  "Z": 0.0
+                }
+              ]
+            },
+            "IsVoid": false
+          }
+        ]
+      },
+      "IsElementDefinition": false,
+      "Id": "ec9cd64c-3957-400d-bf29-6bb52b1588c2",
+      "Name": ""
+    }
+  }
+}
