@@ -1,0 +1,6 @@
+Suite Name,Suite Number,Department,Room Name,Quantity,Area,Ratio
+Admitting,100,Imaging,Reception,3,8,0.75
+Admitting,100,Imaging,Print,3,6,0.75
+Admitting,100,Imaging,Waiting,3,25,0.75
+Admitting,100,Imaging,Public Toilet,3,6,0.75
+Admitting,100,Imaging,Payee  Window,3,6,0.75
