@@ -1,6 +1,16 @@
-Suite Name,Suite Number,Department,Room Name,Quantity,Area,Ratio
-Admitting,100,Imaging,Reception,3,8,0.75
-Admitting,100,Imaging,Print,3,6,0.75
-Admitting,100,Imaging,Waiting,3,25,0.75
-Admitting,100,Imaging,Public Toilet,3,6,0.75
-Admitting,100,Imaging,Payee  Window,3,6,0.75
+Suite Name,Suite Number,Department,Room Name,Quantity,Area,Ratio,Height
+Admitting,100,Imaging,Reception,3,8,0.75,4
+Admitting,100,Imaging,Print,3,6,0.75,4
+Admitting,100,Imaging,Waiting,3,25,0.75,4
+Admitting,100,Imaging,Public Toilet,3,6,0.75,4
+Admitting,100,Imaging,Payee  Window,3,6,0.75,4
+Reception,200,Imaging,Reception,3,8,0.75,6
+Reception,200,Imaging,Print,3,6,0.75,6
+Reception,200,Imaging,Waiting,3,25,0.75,6
+Reception,200,Imaging,Public Toilet,3,6,0.75,6
+Reception,200,Imaging,Payee  Window,3,6,0.75,6
+Imaging,300,Imaging,Reception,3,8,0.75,4
+Imaging,300,Imaging,Print,3,6,0.75,4
+Imaging,300,Imaging,Waiting,3,25,0.75,4
+Imaging,300,Imaging,Public Toilet,3,6,0.75,4
+Imaging,300,Imaging,Payee  Window,3,6,0.75,4
