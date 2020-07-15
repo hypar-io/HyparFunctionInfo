@@ -3,7 +3,7 @@
 
 # Program By CSV
 
-Program By CSV converts a properly formatted Comma Separated Value (.csv, CSV) file into space program of [Room Definitions](https://raw.githubusercontent.com/hypar-io/Schemas/master/RoomDefinition.json) compatible with various Hypar space planning functions.
+Converts a properly formatted Comma Separated Value (.csv, CSV) file into space program of [Room Definitions](https://raw.githubusercontent.com/hypar-io/Schemas/master/RoomDefinition.json) compatible with various Hypar space planning functions.
 
 |Input Name|Type|Description|
 |---|---|---|
