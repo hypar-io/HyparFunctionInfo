@@ -1,4 +1,4 @@
-# Hypar Function Data
-Example data for Hypar Functions accepting file inputs.\
-Folders are named for the displayed function names in the Hypar function library.\
-Each folder contains file data relevant to the named function and instructions on using the data or creating new compatible data.
+# Hypar Function Info
+## Documentation and example data for Hypar Functions.
+Folders are named for the displayed function names in the Hypar Function Library.\
+Each folder contains documentation and any relevant file data for the named function, as well as instructions on using any supplied data or creating data compatible with the function.
