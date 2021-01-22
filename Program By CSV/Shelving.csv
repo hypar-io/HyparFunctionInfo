@@ -1,0 +1,11 @@
+Suite Name,Suite Number,Department,Room Name,Quantity,Area,Ratio,Height
+Aisle 1,1,Cereal,Cereal,5,4,0.75,3
+Aisle 1,1,Refrigerated,Refrigerated,3,4,0.75,3
+Aisle 2,2,Canned,Canned,8,4,0.75,3
+Aisle 2,2,Refrigerated,Refrigerated,3,4,0.75,3
+Aisle 3,3,Juices,Juices,3,4,0.75,3
+Aisle 3,3,Cereal,Cereal,4,4,0.75,3
+Aisle 4,4,Refrigerated,Refrigerated,2,4,0.75,3
+Aisle 4,4,Juices,Juices,2,4,0.75,3
+Aisle 5,5,Refrigerated,Refrigerated,2,4,0.75,3
+Aisle 5,5,Juices,Juices,2,4,0.75,3
