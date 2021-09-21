@@ -1,0 +1,14 @@
+Program Name,Color,Area per Space,Space Count,Total Area,Hypar Space Type
+Open Office,Light Blue,11200,1,11200,Open Office
+Private Office,Purple,140,16,2240,Private Office
+Phone Booth,Green,150,5,750,Phone Booth
+Meeting Rm Lg,Pink,600,1,600,Meeting Room
+Meeting Rm Md,Pink,350,5,1750,Meeting Room
+Meeting Rm Sm,Pink,250,2,500,Meeting Room
+Circulation,White,4600,1,4600,Circulation
+Open Collaboration Lg,Yellow,700,1,700,Meeting Room
+Open Collaboration Sm,Yellow,300,2,600,Lounge
+Service,Gray,250,1,250,Service
+Common Area,White,350,1,350,Lounge
+Reception,White,230,1,230,Reception
+Kitchen,White,625,1,625,Pantry

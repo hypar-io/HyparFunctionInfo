@@ -1,0 +1,11 @@
+Program Name,Color,Area per Space,Space Count,Width,Depth,Hypar Space Type
+Open Office,#d1d1ff,1300,1,,,Open Office
+Private Office,#00008b,30,6,,,Private Office
+Circulation,#fffacd,0,1,,,Circulation
+Meeting Room,#90ee90,30,6,,,Meeting Room
+Lounge,#ffb6c1,140,1,,,Lounge
+Classroom,#ffa500,100,1,,,Classroom
+Pantry,#ff7f50,140,1,,,Pantry
+Phone Booth,#ffd700,30,2,,,Phone Booth
+Reception,#f44343,50,1,,,Reception
+Open Collaboration,#61b35b,40,6,,,Open Collaboration

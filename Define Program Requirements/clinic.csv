@@ -1,0 +1,33 @@
+Program Group,Program Name,Color,Area per Space,Space Count,Width,Depth,Hypar Space Type
+Admitting,Reception,,8,1,,,unspecified
+Admitting,Print,,6,1,,,unspecified
+Admitting,Waiting,,25,1,,,unspecified
+Admitting,Public Toilet,,6,1,,,unspecified
+Admitting,Payee  Window,,6,1,,,unspecified
+Prep,Prep Cubicle,,9,1,,,unspecified
+Prep,Prep Recovery,,12,1,,,unspecified
+Prep,Medication Storage,,2,1,,,unspecified
+Prep,Nurse Station,,7.5,1,,,unspecified
+Prep,Clean  Linen Supply,,3.75,1,,,unspecified
+Prep,Soiled Utility,,2,1,,,unspecified
+Radiology,General Radiography,,30,3,,,unspecified
+Radiology,Control Radiographic,,4,4,,,unspecified
+Radiology,Radio Flouroscopy,,5,1,,,unspecified
+Radiology,Contrast,,4,1,,,unspecified
+Radiology,Dressing,,5,1,,,unspecified
+Radiology,Radiologist Reading,,8,1,,,unspecified
+Consultation,Records,,2,1,,,unspecified
+Consultation,Physician Office,,11,1,,,unspecified
+Consultation,Exam,,10,3,,,unspecified
+Consultation,Patient Toilet,,6,1,,,unspecified
+Admin,Conference,,15,1,,,unspecified
+Admin,Office Scheduling,,12,1,,,unspecified
+Admin,Office Director,,12,1,,,unspecified
+Admin,Office Manager,,8,1,,,unspecified
+Admin,Office Staff,,7.5,1,,,unspecified
+Admin,Worstation Assistant,,5,1,,,unspecified
+Admin,Houskeeping,,3.5,1,,,unspecified
+Staff,Break Room,,15,1,,,unspecified
+Staff,Lockers,,5,1,,,unspecified
+Staff,Staff Toilet,,6,1,,,unspecified
+Staff,Staff Shower,,6,1,,,unspecified
